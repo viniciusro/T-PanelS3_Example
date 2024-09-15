@@ -50,12 +50,13 @@ This repository provides a simple example of using the [T-Panel S3](https://www.
   + UDP Client initialized with IP 192.168.188.75 and port 12345
 + Connect your CAN bus analyser (e.g BUSMASTER, PCAN, etc.).
 
+![T-Panel in Action](images/gif_display.gif)
+
+[Watch the demo video on YouTube](https://youtu.be/w-RJpsvbJns)
 
 ![LVGL Interface](images/EEZ_Studio.png)
 ![hwmonitor_panel](images/hwmonitor_panel.png)
 ![DBC](images/DBC.png)
 ![BUSMASTER](images/busmaster.png)
 ![Display](images/display.jpg)
-![T-Panel in Action](images/gif_display.gif)
 
-[Watch the demo video on YouTube](https://youtu.be/w-RJpsvbJns)
