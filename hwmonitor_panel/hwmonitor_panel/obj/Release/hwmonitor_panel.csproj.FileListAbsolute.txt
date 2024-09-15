@@ -1,0 +1,9 @@
+C:\Users\vinic\source\repos\hwmonitor_panel\hwmonitor_panel\bin\Release\hwmonitor_panel.exe.config
+C:\Users\vinic\source\repos\hwmonitor_panel\hwmonitor_panel\bin\Release\hwmonitor_panel.exe
+C:\Users\vinic\source\repos\hwmonitor_panel\hwmonitor_panel\bin\Release\hwmonitor_panel.pdb
+C:\Users\vinic\source\repos\hwmonitor_panel\hwmonitor_panel\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\vinic\source\repos\hwmonitor_panel\hwmonitor_panel\obj\Release\hwmonitor_panel.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\hwmonitor_panel\hwmonitor_panel\obj\Release\hwmonitor_panel.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\hwmonitor_panel\hwmonitor_panel\obj\Release\hwmonito.366CBD75.Up2Date
+C:\Users\vinic\source\repos\hwmonitor_panel\hwmonitor_panel\obj\Release\hwmonitor_panel.exe
+C:\Users\vinic\source\repos\hwmonitor_panel\hwmonitor_panel\obj\Release\hwmonitor_panel.pdb

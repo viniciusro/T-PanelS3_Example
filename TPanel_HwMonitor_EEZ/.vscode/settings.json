@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "gui_guider.h": "c",
+        "tpanel.h": "c",
+        "dbccodeconf.h": "c",
+        "tpanel-config.h": "c",
+        "tpanel-binutil.h": "c",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ui.h": "c",
+        "*.tpp": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "lv_obj_pos.h": "c",
+        "screens.h": "c",
+        "lvgl.h": "c",
+        "lv_obj_style.h": "c",
+        "lv_obj_scroll.h": "c",
+        "t_panel_hw_monitor.h": "c",
+        "t_panel_hw_monitor_binutil.h": "c",
+        "system_error": "cpp"
+    },
+    "cmake.ignoreCMakeListsMissing": true,
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ]
+}

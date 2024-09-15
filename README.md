@@ -57,3 +57,5 @@ This repository provides a simple example of using the [T-Panel S3](https://www.
 ![BUSMASTER](images/busmaster.png)
 ![Display](images/display.jpg)
 ![T-Panel in Action](images/gif_display.gif)
+
+[Watch the demo video on YouTube](https://youtu.be/w-RJpsvbJns)
