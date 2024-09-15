@@ -1,12 +1,9 @@
 /*
- * @Description: LVGL
- * @version: V1.0.0
- * @Author: LILYGO_L
- * @Date: 2023-09-22 11:59:37
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-03-01 11:16:00
- * @License: GPL 3.0
+ * @Description: Simple T-Panel S3 CANFD Example
+ * @version: V1.0
+ * @Author: Vinicius O
  */
+ 
 // #define TOUCH_MODULES_GT911
 // #define TOUCH_MODULES_CST_SELF
 #define TOUCH_MODULES_CST_MUTUAL
